@@ -1,0 +1,117 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ServiceEntryProtocol"
+- "ServiceEntry"
+provides-nominal:
+- "8Swinject20ServiceEntryProtocolP"
+- "8Swinject12ServiceEntryC"
+provides-member:
+- ["8Swinject20ServiceEntryProtocolP", ""]
+- ["8Swinject12ServiceEntryC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "AssignmentPrecedence"
+- "CastingPrecedence"
+- "FunctionType"
+- "InstanceStorage"
+- "ObjectScope"
+- "ObjectScopeProtocol"
+- "Resolver"
+- "ServiceEntry"
+- "ServiceEntryProtocol"
+- "ServiceKey"
+- "String"
+- !private "description"
+depends-member:
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- ["s23CustomStringConvertibleP", "graph"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- ["8Swinject11ObjectScopeC", "deinit"]
+- ["8Swinject11ObjectScopeC", "graph"]
+- ["8Swinject19ObjectScopeProtocolP", "graph"]
+- !private ["8Swinject19ObjectScopeProtocolP", "makeStorage"]
+- ["8Swinject12ServiceEntryC", "FunctionType"]
+- ["8Swinject12ServiceEntryC", "InstanceStorage"]
+- ["8Swinject12ServiceEntryC", "ObjectScope"]
+- ["8Swinject12ServiceEntryC", "ObjectScopeProtocol"]
+- ["8Swinject12ServiceEntryC", "Resolver"]
+- ["8Swinject12ServiceEntryC", "Service"]
+- ["8Swinject12ServiceEntryC", "ServiceEntry"]
+- ["8Swinject12ServiceEntryC", "ServiceKey"]
+- ["8Swinject12ServiceEntryC", "String"]
+- ["8Swinject12ServiceEntryC", "copyExceptInstance"]
+- ["8Swinject12ServiceEntryC", "deinit"]
+- ["8Swinject12ServiceEntryC", "describeWithKey"]
+- !private ["8Swinject12ServiceEntryC", "description"]
+- ["8Swinject12ServiceEntryC", "factory"]
+- ["8Swinject12ServiceEntryC", "inObjectScope"]
+- ["8Swinject12ServiceEntryC", "init"]
+- ["8Swinject12ServiceEntryC", "initCompleted"]
+- ["8Swinject12ServiceEntryC", "objectScope"]
+- !private ["8Swinject12ServiceEntryC", "serviceType"]
+- ["8Swinject12ServiceEntryC", "storage"]
+- !private ["8Swinject12ServiceEntryC", "storage.storage"]
+- ["8Swinject20ServiceEntryProtocolP", "InstanceStorage"]
+- ["8Swinject20ServiceEntryProtocolP", "ObjectScope"]
+- ["8Swinject20ServiceEntryProtocolP", "ObjectScopeProtocol"]
+- !private ["8Swinject20ServiceEntryProtocolP", "ServiceEntry"]
+- ["8Swinject20ServiceEntryProtocolP", "ServiceKey"]
+- ["8Swinject20ServiceEntryProtocolP", "String"]
+- ["8Swinject20ServiceEntryProtocolP", ""]
+- ["8Swinject20ServiceEntryProtocolP", "describeWithKey"]
+- !private ["8Swinject20ServiceEntryProtocolP", "description"]
+- !private ["8Swinject20ServiceEntryProtocolP", "factory"]
+- !private ["8Swinject20ServiceEntryProtocolP", "inObjectScope"]
+- !private ["8Swinject20ServiceEntryProtocolP", "init"]
+- !private ["8Swinject20ServiceEntryProtocolP", "initCompleted"]
+- ["8Swinject20ServiceEntryProtocolP", "objectScope"]
+- !private ["8Swinject20ServiceEntryProtocolP", "serviceType"]
+- ["8Swinject20ServiceEntryProtocolP", "storage"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+depends-nominal:
+- !private "Sb"
+- !private "s7CVarArgP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- !private "SQ"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "SH"
+- !private "s25LosslessStringConvertibleP"
+- "8Swinject11ObjectScopeC"
+- "8Swinject19ObjectScopeProtocolP"
+- "8Swinject12ServiceEntryC"
+- "8Swinject20ServiceEntryProtocolP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/kennethmoody/Desktop/iOS projects/Exercise Files/Speedometer/Carthage/Checkouts/SwinjectStoryboard/Carthage/Checkouts/Swinject/Sources/Swinject.h"
+- "/Users/kennethmoody/Desktop/iOS projects/Exercise Files/Speedometer/DerivedData/Build/Intermediates.noindex/Swinject.build/Debug-iphonesimulator/Swinject-iOS.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "e79c0b0fe6dd0f2e4aa5d3c69f7e011d"

@@ -1,0 +1,64 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "InstanceStorage"
+- "PermanentStorage"
+- "TransientStorage"
+- "WeakStorage"
+provides-nominal:
+- "8Swinject15InstanceStorageP"
+- "8Swinject16PermanentStorageC"
+- "8Swinject16TransientStorageC"
+- "8Swinject11WeakStorageC"
+provides-member:
+- ["8Swinject15InstanceStorageP", ""]
+- ["8Swinject16PermanentStorageC", ""]
+- ["8Swinject16TransientStorageC", ""]
+- ["8Swinject11WeakStorageC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "AnyObject"
+- "AssignmentPrecedence"
+- "CastingPrecedence"
+- "InstanceStorage"
+- "PermanentStorage"
+- "TransientStorage"
+- "WeakStorage"
+depends-member:
+- ["8Swinject15InstanceStorageP", ""]
+- ["8Swinject15InstanceStorageP", "instance"]
+- !private ["8Swinject15InstanceStorageP", "object"]
+- ["8Swinject16PermanentStorageC", "deinit"]
+- ["8Swinject16PermanentStorageC", "init"]
+- ["8Swinject16PermanentStorageC", "instance"]
+- ["8Swinject16TransientStorageC", "deinit"]
+- ["8Swinject16TransientStorageC", "init"]
+- ["8Swinject16TransientStorageC", "instance"]
+- ["8Swinject11WeakStorageC", "AnyObject"]
+- ["8Swinject11WeakStorageC", "deinit"]
+- ["8Swinject11WeakStorageC", "init"]
+- ["8Swinject11WeakStorageC", "instance"]
+- !private ["8Swinject11WeakStorageC", "object"]
+depends-nominal:
+- "8Swinject15InstanceStorageP"
+- "8Swinject16PermanentStorageC"
+- "8Swinject16TransientStorageC"
+- "8Swinject11WeakStorageC"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/kennethmoody/Desktop/iOS projects/Exercise Files/Speedometer/Carthage/Checkouts/SwinjectStoryboard/Carthage/Checkouts/Swinject/Sources/Swinject.h"
+- "/Users/kennethmoody/Desktop/iOS projects/Exercise Files/Speedometer/DerivedData/Build/Intermediates.noindex/Swinject.build/Debug-iphonesimulator/Swinject-iOS.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "9fdeef254830bf7c767f766d3da67dfc"

@@ -1,0 +1,10 @@
+framework module SwinjectStoryboard {
+  umbrella header "SwinjectStoryboard.h"
+
+  export *
+  module * { export * }
+}
+
+module SwinjectStoryboard.__Swift {
+    exclude header "SwinjectStoryboard-Swift.h"
+}

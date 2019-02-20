@@ -1,0 +1,38 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/kennethmoody/Desktop/iOS projects/Exercise Files/Speedometer/DerivedData/Build/Products/Debug-iphonesimulator/SwinjectStoryboard.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SwinjectStoryboard-Swift.h",
+          'external-contents': "/Users/kennethmoody/Desktop/iOS projects/Exercise Files/Speedometer/DerivedData/Build/Products/Debug-iphonesimulator/SwinjectStoryboard.framework/Headers/SwinjectStoryboard-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SwinjectStoryboard.h",
+          'external-contents': "/Users/kennethmoody/Desktop/iOS projects/Exercise Files/Speedometer/Carthage/Checkouts/SwinjectStoryboard/Sources/SwinjectStoryboard.h"
+        },
+        {
+          'type': 'file',
+          'name': "_SwinjectStoryboardBase.h",
+          'external-contents': "/Users/kennethmoody/Desktop/iOS projects/Exercise Files/Speedometer/Carthage/Checkouts/SwinjectStoryboard/Sources/iOS-tvOS/_SwinjectStoryboardBase.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/kennethmoody/Desktop/iOS projects/Exercise Files/Speedometer/DerivedData/Build/Products/Debug-iphonesimulator/SwinjectStoryboard.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/kennethmoody/Desktop/iOS projects/Exercise Files/Speedometer/DerivedData/Build/Intermediates.noindex/SwinjectStoryboard.build/Debug-iphonesimulator/SwinjectStoryboard-iOS.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

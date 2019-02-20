@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/kennethmoody/Desktop/iOS projects/Exercise Files/Speedometer/DerivedData/Build/Products/Debug-iphonesimulator/Swinject.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Swinject-Swift.h",
+          'external-contents': "/Users/kennethmoody/Desktop/iOS projects/Exercise Files/Speedometer/DerivedData/Build/Products/Debug-iphonesimulator/Swinject.framework/Headers/Swinject-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Swinject.h",
+          'external-contents': "/Users/kennethmoody/Desktop/iOS projects/Exercise Files/Speedometer/Carthage/Checkouts/SwinjectStoryboard/Carthage/Checkouts/Swinject/Sources/Swinject.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/kennethmoody/Desktop/iOS projects/Exercise Files/Speedometer/DerivedData/Build/Products/Debug-iphonesimulator/Swinject.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/kennethmoody/Desktop/iOS projects/Exercise Files/Speedometer/DerivedData/Build/Intermediates.noindex/Swinject.build/Debug-iphonesimulator/Swinject-iOS.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

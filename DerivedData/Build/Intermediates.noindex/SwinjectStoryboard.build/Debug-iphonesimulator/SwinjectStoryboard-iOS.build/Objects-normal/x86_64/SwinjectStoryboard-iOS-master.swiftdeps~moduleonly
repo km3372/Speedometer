@@ -1,0 +1,15 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "6caa8a1be160d4049a40532a90447242"
+build_time: [1550663741, 302939000]
+inputs:
+  "/Users/kennethmoody/Desktop/iOS projects/Exercise Files/Speedometer/Carthage/Checkouts/SwinjectStoryboard/Sources/Storyboard+Swizzling.swift": [1491233076, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/Exercise Files/Speedometer/Carthage/Checkouts/SwinjectStoryboard/Sources/Container+SwinjectStoryboard.swift": [1491233076, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/Exercise Files/Speedometer/Carthage/Checkouts/SwinjectStoryboard/Sources/InjectionVerifiable.swift": [1491233076, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/Exercise Files/Speedometer/Carthage/Checkouts/SwinjectStoryboard/Sources/UnavailableItems.swift": [1491233076, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/Exercise Files/Speedometer/Carthage/Checkouts/SwinjectStoryboard/Sources/SwinjectStoryboardOption.swift": [1491233076, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/Exercise Files/Speedometer/Carthage/Checkouts/SwinjectStoryboard/Sources/RegistrationNameAssociatable.swift": [1491233076, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/Exercise Files/Speedometer/Carthage/Checkouts/SwinjectStoryboard/Sources/SwinjectStoryboard.swift": [1491233076, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/Exercise Files/Speedometer/Carthage/Checkouts/SwinjectStoryboard/Sources/SwinjectStoryboard+StoryboardReference.swift": [1491233076, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/Exercise Files/Speedometer/Carthage/Checkouts/SwinjectStoryboard/Sources/SwinjectStoryboardProtocol.swift": [1491233076, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/Exercise Files/Speedometer/Carthage/Checkouts/SwinjectStoryboard/Sources/Box.swift": [1491233076, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/Exercise Files/Speedometer/Carthage/Checkouts/SwinjectStoryboard/Sources/ViewController+Swinject.swift": [1491233076, 0]

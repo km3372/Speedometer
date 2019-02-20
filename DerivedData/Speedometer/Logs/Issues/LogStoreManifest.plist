@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>1343E918-AEFB-4D5C-BD2D-787A9AA221A3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>1343E918-AEFB-4D5C-BD2D-787A9AA221A3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>signature</key>
+			<string>Speedometer-hgwaoneraieiisaybifsggrzdpnh</string>
+			<key>timeStartedRecording</key>
+			<real>572356540.05462694</real>
+			<key>timeStoppedRecording</key>
+			<real>572356540.29380298</real>
+			<key>title</key>
+			<string>Build target Speedometer</string>
+			<key>uniqueIdentifier</key>
+			<string>1343E918-AEFB-4D5C-BD2D-787A9AA221A3</string>
+		</dict>
+		<key>9F918928-B2D6-49E9-8795-D3368B1A13C2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
+			<key>fileName</key>
+			<string>9F918928-B2D6-49E9-8795-D3368B1A13C2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>signature</key>
+			<string>SwinjectStoryboard-iOS-gtbjtzkicwtkmxfvhiplpnfoqpot</string>
+			<key>timeStartedRecording</key>
+			<real>572356579.07681704</real>
+			<key>timeStoppedRecording</key>
+			<real>572356579.09220505</real>
+			<key>title</key>
+			<string>Build target SwinjectStoryboard-iOS</string>
+			<key>uniqueIdentifier</key>
+			<string>9F918928-B2D6-49E9-8795-D3368B1A13C2</string>
+		</dict>
+		<key>DBE92A43-13D7-4EB3-85DD-410F50EBF7F5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
+			<key>fileName</key>
+			<string>DBE92A43-13D7-4EB3-85DD-410F50EBF7F5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>signature</key>
+			<string>Swinject-iOS-boetirhfovurtacispnjupzriznh</string>
+			<key>timeStartedRecording</key>
+			<real>572356579.05619204</real>
+			<key>timeStoppedRecording</key>
+			<real>572356579.07654405</real>
+			<key>title</key>
+			<string>Build target Swinject-iOS</string>
+			<key>uniqueIdentifier</key>
+			<string>DBE92A43-13D7-4EB3-85DD-410F50EBF7F5</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

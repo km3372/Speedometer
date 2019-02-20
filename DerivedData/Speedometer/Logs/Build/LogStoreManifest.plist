@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>ACA9A0C8-AEAA-4F84-BF2B-0928F392FD1E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>ACA9A0C8-AEAA-4F84-BF2B-0928F392FD1E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Speedometer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Speedometer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Speedometer</string>
+			<key>timeStartedRecording</key>
+			<real>572356540.28053498</real>
+			<key>timeStoppedRecording</key>
+			<real>572356542.06629503</real>
+			<key>title</key>
+			<string>Build Speedometer</string>
+			<key>uniqueIdentifier</key>
+			<string>ACA9A0C8-AEAA-4F84-BF2B-0928F392FD1E</string>
+		</dict>
+		<key>C95236CA-16F0-4128-BD96-B056E07F6C25</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C95236CA-16F0-4128-BD96-B056E07F6C25.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Speedometer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Speedometer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Speedometer</string>
+			<key>timeStartedRecording</key>
+			<real>572356501.14308906</real>
+			<key>timeStoppedRecording</key>
+			<real>572356508.89214897</real>
+			<key>title</key>
+			<string>Build Speedometer</string>
+			<key>uniqueIdentifier</key>
+			<string>C95236CA-16F0-4128-BD96-B056E07F6C25</string>
+		</dict>
+		<key>F50151C8-C470-4FEE-AF80-B95D78FBD543</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F50151C8-C470-4FEE-AF80-B95D78FBD543.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Speedometer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Speedometer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Speedometer</string>
+			<key>timeStartedRecording</key>
+			<real>572356578.98892498</real>
+			<key>timeStoppedRecording</key>
+			<real>572356579.103037</real>
+			<key>title</key>
+			<string>Build Speedometer</string>
+			<key>uniqueIdentifier</key>
+			<string>F50151C8-C470-4FEE-AF80-B95D78FBD543</string>
+		</dict>
+		<key>FDF1F6C8-0200-40D9-9DF2-01BE1047FF0E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FDF1F6C8-0200-40D9-9DF2-01BE1047FF0E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Speedometer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Speedometer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean Speedometer</string>
+			<key>timeStartedRecording</key>
+			<real>572356536.23413503</real>
+			<key>timeStoppedRecording</key>
+			<real>572356536.78337002</real>
+			<key>title</key>
+			<string>Clean Speedometer</string>
+			<key>uniqueIdentifier</key>
+			<string>FDF1F6C8-0200-40D9-9DF2-01BE1047FF0E</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "fd968e718b0a1d227998210045e13e77"
+build_time: [1550663740, 339350000]
+inputs:
+  "/Users/kennethmoody/Desktop/iOS projects/Exercise Files/Speedometer/Carthage/Checkouts/SwinjectStoryboard/Carthage/Checkouts/Swinject/Sources/SpinLock.swift": [1491233076, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/Exercise Files/Speedometer/Carthage/Checkouts/SwinjectStoryboard/Carthage/Checkouts/Swinject/Sources/Assembler.swift": [1491233076, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/Exercise Files/Speedometer/Carthage/Checkouts/SwinjectStoryboard/Carthage/Checkouts/Swinject/Sources/FunctionType.swift": [1491233076, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/Exercise Files/Speedometer/Carthage/Checkouts/SwinjectStoryboard/Carthage/Checkouts/Swinject/Sources/ObjectScope.Standard.swift": [1491233076, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/Exercise Files/Speedometer/Carthage/Checkouts/SwinjectStoryboard/Carthage/Checkouts/Swinject/Sources/ServiceEntry.swift": [1491233076, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/Exercise Files/Speedometer/Carthage/Checkouts/SwinjectStoryboard/Carthage/Checkouts/Swinject/Sources/SynchronizedResolver.swift": [1491233076, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/Exercise Files/Speedometer/Carthage/Checkouts/SwinjectStoryboard/Carthage/Checkouts/Swinject/Sources/DebugHelper.swift": [1491233076, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/Exercise Files/Speedometer/Carthage/Checkouts/SwinjectStoryboard/Carthage/Checkouts/Swinject/Sources/Resolver.swift": [1491233076, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/Exercise Files/Speedometer/Carthage/Checkouts/SwinjectStoryboard/Carthage/Checkouts/Swinject/Sources/InstanceStorage.swift": [1491233076, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/Exercise Files/Speedometer/Carthage/Checkouts/SwinjectStoryboard/Carthage/Checkouts/Swinject/Sources/Container.swift": [1491233076, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/Exercise Files/Speedometer/Carthage/Checkouts/SwinjectStoryboard/Carthage/Checkouts/Swinject/Sources/Container.Arguments.swift": [1491233076, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/Exercise Files/Speedometer/Carthage/Checkouts/SwinjectStoryboard/Carthage/Checkouts/Swinject/Sources/ServiceKey.swift": [1491233076, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/Exercise Files/Speedometer/Carthage/Checkouts/SwinjectStoryboard/Carthage/Checkouts/Swinject/Sources/ObjectScope.swift": [1491233076, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/Exercise Files/Speedometer/Carthage/Checkouts/SwinjectStoryboard/Carthage/Checkouts/Swinject/Sources/_Resolver.swift": [1491233076, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/Exercise Files/Speedometer/Carthage/Checkouts/SwinjectStoryboard/Carthage/Checkouts/Swinject/Sources/SynchronizedResolver.Arguments.swift": [1491233076, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/Exercise Files/Speedometer/Carthage/Checkouts/SwinjectStoryboard/Carthage/Checkouts/Swinject/Sources/Container.Logging.swift": [1491233076, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/Exercise Files/Speedometer/Carthage/Checkouts/SwinjectStoryboard/Carthage/Checkouts/Swinject/Sources/UnavailableItems.swift": [1491233076, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/Exercise Files/Speedometer/Carthage/Checkouts/SwinjectStoryboard/Carthage/Checkouts/Swinject/Sources/Assembly.swift": [1491233076, 0]
